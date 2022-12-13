@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reavexx&show_icons=true&locale=en&layout=compact" alt="reavexx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reavexx&show_icons=true&locale=en" alt="reavexx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reavexx&" alt="reavexx" /></p>
