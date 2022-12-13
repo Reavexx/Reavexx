@@ -12,10 +12,10 @@ Dines Nimalthas, 17<br>Informatikmittelschule Luzern<br>Meine Hobbys sind Schwim
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reavexx&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reavexx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  ## 💰 You can help me by Donating
+  ## You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dines.nimalthas) 
 
   
