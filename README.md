@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Switzerland</h3>
+<h3 align="center">A passionate developer from Switzerland</h3>
 
 - 🔭 I’m currently working on [ZombieSlayer](https://github.com/Reavexx/Zombie_Slayer)
 
