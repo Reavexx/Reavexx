@@ -1,5 +1,5 @@
 # About Me:
-Dines Nimalthas, 17<br>IMS Luzern / BBZW Sursee<br>My free time activities are swimming, playing video games and of course programming
+Dines Nimalthas<br>IMS Luzern / BBZW Sursee<br>My free time activities are swimming, playing video games and of course programming
 
 
 ## Socials:
