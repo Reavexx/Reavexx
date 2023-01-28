@@ -10,7 +10,7 @@ Dines Nimalthas<br>IMS Luzern / BBZW Sursee<br>
 ## GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reavexx&show_icons=true&locale=en&layout=compact&theme=radical" alt="reavexx" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reavexx&show_icons=true&locale=en&theme=radical" alt="reavexx" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reavexx&" alt="reavexx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reavexx&theme=radical" alt="reavexx" /></p>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
