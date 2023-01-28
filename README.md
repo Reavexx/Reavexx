@@ -13,7 +13,7 @@ Dines Nimalthas<br>IMS Luzern / BBZW Sursee<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reavexx&theme=radical" alt="reavexx" /></p>
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dinesnimalthas) 
