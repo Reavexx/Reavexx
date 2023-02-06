@@ -1,4 +1,4 @@
-![alt text](https://github.com/[reavexx]/[Reavexx]/blob/[main]/Aboutme.png?raw=true)
+## About Me:
 Dines Nimalthas<br>IMS Luzern / BBZW Sursee<br>
 
 
