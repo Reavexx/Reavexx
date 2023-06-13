@@ -3,7 +3,11 @@ Dines Nimalthas, 17<br>IMS Luzern / BBZW Sursee<br>
 
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/425393408379584524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dines.luu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dines.nimalthas) 
+<p align='left'>
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" href="https://discordapp.com/users/425393408379584524"height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" href="https://instagram.com/dines.luu"height="50">
+<img src="https://pngimg.com/d/linkedIn_PNG15.png" href="https://linkedin.com/in/dines.nimalthas"height="50">
+</p>
 
 ## Programming Lanuages:
 ### Front-End
