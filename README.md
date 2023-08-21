@@ -33,7 +33,6 @@ Dines Nimalthas, 17<br>IMS Luzern / BBZW Sursee<br>
 <img src="https://en.wikipedia.org/wiki/File:Microsoft_.NET_logo.svg" height="50" alt=".net">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" height="50" alt=".net">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg" height="50" alt=".net">  
-<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" height="50" alt=".net">  
 </p>
 
 ## GitHub Stats:
