@@ -35,13 +35,3 @@ Dines Nimalthas, 17<br>IMS Luzern / BBZW Sursee<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg" height="50" alt=".net">  
 </p>
 
-## GitHub Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reavexx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="reavexx" />
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=reavexx&show_icons=true&locale=en&theme=dracula" alt="reavexx" />
-</p>
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reavexx&theme=dracula" alt="reavexx" />
-</p>
