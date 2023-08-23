@@ -30,7 +30,7 @@ Dines Nimalthas, 17<br>IMS Luzern / BBZW Sursee<br>
 ### Frameworks & Extras
 <p align='left'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="50" alt="nodejs">  
-<img src="https://en.wikipedia.org/wiki/File:Microsoft_.NET_logo.svg" height="50" alt=".net">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="50" alt=".net">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png" height="50" alt=".net">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg" height="50" alt=".net">  
 </p>
