@@ -38,5 +38,6 @@ Dines Nimalthas, 17<br>IMS Lucerne / BBZW Sursee<br>
 <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" height="50" alt="Unity">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" height="50" alt="Blender">
 <img src="https://assets.bigcartel.com/account_images/3152111/laravel-logo.png?auto=format&fit=max&h=1200&w=1200" height="50" alt="Laravel">
+<img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" height="50" alt="Laravel">
 </p>
 
