@@ -19,6 +19,7 @@ Dines Nimalthas, 17<br>IMS Lucerne / BBZW Sursee<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50"> 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua.png" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/768px-Racket-logo.svg.png?20181221151359" height="50">
 </p>
 
 ### Databases
